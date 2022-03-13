@@ -1,4 +1,4 @@
-Hi, I'm TakeFy 👋
+Hi, I'm Nicster 👋
 👨‍🎓 About me!
 📚 I live and study in France
 🥅 2022 Goals: learn java, c#
