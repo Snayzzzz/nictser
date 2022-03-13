@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @nictser
-- 👀 I’m interested in Bot discord
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm TakeFy 👋
+👨‍🎓 About me!
+📚 I live and study in France
+🥅 2022 Goals: learn java, c#
+🖥 I'm using Webstorm
 
-<!---
-nictser/nictser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Languages and Tools:
+Visual Studio Code
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Node.js
+
+MySQL
+
+Git
+
+GitHub
+
+Terminal
+
