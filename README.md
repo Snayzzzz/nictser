@@ -1,7 +1,7 @@
-Hi, I'm Nicster 👋
+Salut, c est >Snayz' 👋
 👨‍🎓 About me!
 📚 I live and study in France
-🥅 2022 Goals: learn java, c#
+🥅 2023 Goals: learn java, c#, remade des blts pour /codecenter
 🖥 I'm using Webstorm
 
 💻 Languages and Tools:
